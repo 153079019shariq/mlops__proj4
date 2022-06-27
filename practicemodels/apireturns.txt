@@ -1,0 +1,14 @@
+[0, 1, 1, 1, 1]
+0.5714285714285715
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            165.653846        1502.923077            26.884615
+median           73.000000         955.000000            14.000000
+std             284.033229        2192.644958            31.353886
+The execution time is [1.4581388549995609, 0.5737979909972637] and percentage of missing data is [0.0, 0.0, 0.0] 
+ Package    Version     Latest    Type
+---------- ----------- --------- -----
+certifi    2022.5.18.1 2022.6.15 wheel
+pip        21.2.2      22.1.2    wheel
+setuptools 61.2.0      62.5.0    wheel
+  
+ 
